@@ -1,0 +1,5 @@
+{
+  "name": "GPUSim: CPU vs GPU Fundamentals",
+  "description": "An interactive simulator for students to understand the fundamental differences between CPU and GPU architectures by adjusting parameters like thread count and memory bandwidth and observing the impact on performance.",
+  "requestFramePermissions": []
+}
